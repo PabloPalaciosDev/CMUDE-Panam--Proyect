@@ -1,0 +1,30 @@
+/*conversion de medidas*/
+html {
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem; /* 1 rem = 10px*/
+}
+
+/*css navegacion*/
+.main-nav{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+}
+.nav-btn-text{
+    margin-right: 2.5rem; 
+    font-family: 'Baloo 2', cursive;
+}
+.nav-btn{
+    text-decoration: none;
+    color: black ;
+}
+/*css banner de bienvenida*/
+.welcome{
+    background-image: url(../img/imgprovisional.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
